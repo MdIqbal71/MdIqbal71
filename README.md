@@ -1,6 +1,6 @@
 <div align="center">
 
-<div align='center'>Hi, I'm Md Iqbal  :wave:  <img src="https://github.com/MdIqbal71/MdIqbal71/blob/main/verify-blue.gif" style="width:20px; height:20px;"></div>
+<div align='center'>Hi, I'm Iqbal  :wave:  <img src="https://github.com/MdIqbal71/MdIqbal71/blob/main/verify-blue.gif" style="width:20px; height:20px;"></div>
 
 <p align='center'><img src="https://github.com/MdIqbal71/MdIqbal71/blob/main/tenor.gif" alt="gif" width="500" height"300"></p>
 
@@ -11,7 +11,7 @@
 :biking_man: ✨✨✨ :bangladesh:
 :computer: :battery: :trophy: :sparkler: :snowflake:
 
-👋 Hi, I’m Md Iqbal 
+👋 Hi, I’m Iqbal 
 👀 I’m interested in ...Web Development
 🌱 I’m currently learning ...Web Design and Development
 💞️ I’m looking to collaborate on ...github
