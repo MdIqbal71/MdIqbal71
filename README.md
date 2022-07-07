@@ -1,6 +1,6 @@
 <div align="center">
 
-<div align='center'>:wave:  <img src="https://github.com/MdIqbal71/MdIqbal71/blob/main/verify-blue.gif" style="width:20px; height:20px;"></div>
+<div align='center'><img src="https://github.com/MdIqbal71/MdIqbal71/blob/main/verify-blue.gif" style="width:20px; height:20px;"></div>
 
 <p align='center'><img src="https://github.com/MdIqbal71/MdIqbal71/blob/main/tenor.gif" alt="gif" width="500" height"300"></p>
 
