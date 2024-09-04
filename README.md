@@ -13,7 +13,6 @@
 
 👋 Hi, I’m Iqbal 
 👀 I’m interested in ...Web Development
-🌱 I’m currently learning ...Web Design and Development
 💞️ I’m looking to collaborate on ...github
 <!-- - 💻 Languages ... HTML, CSS, Bootstrap, Javascript, Jquery, PHP, Wordpress -->
 📫 How to reach me ...https://github.com/iah1
